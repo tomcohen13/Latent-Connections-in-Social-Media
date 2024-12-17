@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# except demo files
+!README.md
+!.gitignore
+!data/demo/*
+!data/demo/demo_v2_files/*
+
+!*/
