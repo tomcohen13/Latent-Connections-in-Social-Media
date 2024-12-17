@@ -6,5 +6,6 @@
 !.gitignore
 !data/demo/*
 !data/demo/demo_v2_files/*
+*.csv
 
 !*/
